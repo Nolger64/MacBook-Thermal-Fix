@@ -1,0 +1,14 @@
+{
+  "name": "MacBook Thermal",
+  "description": "Control térmico y monitor de temperatura para MacBook T2",
+  "uuid": "macbook-thermal@local",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51"
+  ]
+}
